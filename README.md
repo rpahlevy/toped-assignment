@@ -18,6 +18,8 @@ build:
 npm run build
 ```
 
+**NOTE.** need to manually copy `assets` folder from src to dist.
+
 
 ## Nice Tools
 

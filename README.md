@@ -1,5 +1,24 @@
 # Toped Assignment
 
+## Install
+
+```
+npm install
+```
+
+## Run / Build
+
+run dev:
+```
+npm start
+```
+
+build:
+```
+npm run build
+```
+
+
 ## Nice Tools
 
 1. Spritesheet to GIF: https://onlinegiftools.com/convert-sprite-sheet-to-gif
